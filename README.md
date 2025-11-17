@@ -31,19 +31,19 @@ React.js • Node.js • Git/GitHub • Docker • AWS
 
 ### 🧾 **Finance Dashboard — Power BI**  
 Interactive dashboard to track Income, Expenses & Savings with MoM analysis.  
-🔗 *[View Power BI Report]([YOUR_FINANCE_DASHBOARD_LINK](https://app.powerbi.com/view?r=eyJrIjoiMDI0MTE2ZTMtNjQ0NS00NTM0LTlkZTktYzMxNjg2MTYwNTQ3IiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9&pageName=ee3d374493c1009a28b4))*
+🔗 *[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMDI0MTE2ZTMtNjQ0NS00NTM0LTlkZTktYzMxNjg2MTYwNTQ3IiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9&pageName=ee3d374493c1009a28b4)*
 
 ---
 
 ### 🛒 **Sales Dashboard — Power BI**  
 End-to-end sales performance dashboard with KPIs, profit %, and region/category insights.  
-🔗 *[View Power BI Report]([YOUR_SALES_DASHBOARD_LINK](https://app.powerbi.com/view?r=eyJrIjoiZTAzZjlmOTUtYmFhZS00YjMxLWJmYjItMDBmNDc3OTU1ZTM2IiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9))*
+🔗 *[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTAzZjlmOTUtYmFhZS00YjMxLWJmYjItMDBmNDc3OTU1ZTM2IiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9)*
 
 ---
 
 ### 👥 **HR Analytics Dashboard — Power BI**  
 Employee attrition, demographics, and salary distribution insights for HR strategy.  
-🔗 *[View Power BI Report]([YOUR_HR_DASHBOARD_LINK](https://app.powerbi.com/view?r=eyJrIjoiOTgwY2Q2YmItMGMwNS00M2MyLWIzNjQtMTlkYzc4NTgxZWFiIiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9))*
+🔗 *[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTgwY2Q2YmItMGMwNS00M2MyLWIzNjQtMTlkYzc4NTgxZWFiIiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9)*
 
 ---
 
