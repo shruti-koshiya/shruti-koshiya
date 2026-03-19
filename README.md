@@ -37,13 +37,13 @@ Interactive dashboard to track Income, Expenses & Savings with MoM analysis.
 
 ### 🛒 **Sales Dashboard — Power BI**  
 End-to-end sales performance dashboard with KPIs, profit %, and region/category insights.  
-🔗 *[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTAzZjlmOTUtYmFhZS00YjMxLWJmYjItMDBmNDc3OTU1ZTM2IiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9)*
+🔗 *[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTgwY2Q2YmItMGMwNS00M2MyLWIzNjQtMTlkYzc4NTgxZWFiIiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9)*
 
 ---
 
 ### 👥 **HR Analytics Dashboard — Power BI**  
 Employee attrition, demographics, and salary distribution insights for HR strategy.  
-🔗 *[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTgwY2Q2YmItMGMwNS00M2MyLWIzNjQtMTlkYzc4NTgxZWFiIiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9)*
+🔗 *[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTAzZjlmOTUtYmFhZS00YjMxLWJmYjItMDBmNDc3OTU1ZTM2IiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9)*
 
 ---
 
